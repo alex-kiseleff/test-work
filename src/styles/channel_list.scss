@@ -1,0 +1,48 @@
+.channel-list {
+	display: none;
+	width: 100%;
+	background: $color-background--body;
+	padding: 0 0.3125rem;
+	margin-bottom: 4.5rem;
+	flex: 1 0 auto;
+
+	&__container {
+		background: inherit;
+		max-width: 73.75rem;
+		height: 43.5rem;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		overflow-y: scroll;
+
+		&::-webkit-scrollbar {
+			width: 0.5rem;
+		}
+
+		&::-webkit-scrollbar-track {
+			box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+			border-radius: 10px;
+		}
+
+		&::-webkit-scrollbar-thumb {
+			box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+			border-radius: 10px;
+		}
+
+		&::-webkit-scrollbar-thumb:hover {
+			box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.8);
+		}
+	}
+
+	.block-channel {
+		margin: 0 0.5rem 1rem 0;
+	}
+
+	&--active {
+		display: block;
+	}
+
+	&--hide-element {
+		display: none;
+	}
+}

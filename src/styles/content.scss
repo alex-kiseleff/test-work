@@ -1,0 +1,67 @@
+.content {
+	display: none;
+	width: 100%;
+	background: $color-background--body;
+	padding: 0 0.3125rem;
+	flex: 1 0 auto;
+
+	&__container {
+		padding-top: 0.3125rem;
+		background: inherit;
+		max-width: 73.75rem;
+		height: auto;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 1.6875rem;
+
+		&:last-child {
+			margin-bottom: 4.5rem;
+		}
+	}
+
+	&__title {
+		margin-bottom: 1rem;
+		max-width: fit-content;
+		display: flex;
+		font-family: "RM";
+		font-size: $size-font--24;
+		color: $color-text;
+		line-height: 1.75rem;
+		cursor: pointer;
+
+		@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+			margin: 0 auto 1rem;
+		}
+	}
+
+	&__img-flame {
+		align-self: start;
+		margin-right: 0.4375rem;
+
+		@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+			display: none;
+		}
+	}
+
+	&__wrap-cards {
+		display: inline-grid;
+		grid-auto-flow: column;
+		grid-template-columns: repeat(4, 1fr);
+		grid-gap: 1.25rem;
+
+		@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+			grid-template-columns: repeat(2, 1fr);
+			grid-template-rows: repeat(2, 1fr);
+			align-self: center;
+		}
+	}
+
+	&--active {
+		display: block;
+	}
+
+	&--hide-element {
+		display: none;
+	}
+}

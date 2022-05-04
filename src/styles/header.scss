@@ -1,0 +1,67 @@
+.header {
+	max-width: 100%;
+	padding: 0 0.3125rem;
+	background: $color-background--body;
+
+	&__container {
+		background: inherit;
+		max-width: 73.75rem;
+		height: 7.25rem;
+		margin: 0 auto;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		flex-wrap: nowrap;
+	}
+
+	.logo {
+		margin-right: 1.25rem;
+	}
+
+	&__wrap-search {
+		display: flex;
+		flex-wrap: nowrap;
+		align-items: center;
+		justify-content: space-between;
+		width: 25.125rem;
+		margin-right: 1.25rem;
+		min-width: 0;
+
+		.input {
+			margin-right: 0.5rem;
+		}
+	}
+
+	&__wrap-right {
+		display: flex;
+		flex-wrap: nowrap;
+		align-items: center;
+		justify-content: flex-end;
+		width: 11.375rem;
+	}
+
+	&__wrap-nickname-box {
+		display: none;
+		align-items: center;
+
+		.no-border-button {
+			margin-right: 0;
+		}
+
+		.input--width-border {
+			border: none;
+			margin-right: 1rem;
+			width: 7.125rem;
+			text-align: right;
+		}
+
+		&--active {
+			display: flex;
+		}
+
+	}
+	
+	&--hide-element {
+		display: none;
+	}
+}
