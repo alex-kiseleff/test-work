@@ -1,0 +1,32 @@
+.logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 11.375rem;
+	height: 2.25rem;
+
+	@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+		width: auto;
+	}
+
+	&__img {
+		width: 2.2575rem;
+		height: 2.25rem;
+		margin-right: 0.7406rem;
+	}
+
+	&__text {
+		font-family: "RM";
+		font-size: $size-font--20;
+		line-height: 1.5rem;
+		color: $color-text;
+
+		@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+			display: none;
+		}
+	}
+
+	&--hovered:hover {
+		cursor: pointer;
+	}
+}

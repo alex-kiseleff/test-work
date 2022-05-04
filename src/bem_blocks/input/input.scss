@@ -1,0 +1,31 @@
+.input {
+	background: inherit;
+	border-bottom: 1px solid $color-border-bottom-input;
+	font-family: "RM";
+	font-size: $size-font--16;
+	color: $color-text;
+	width: 20rem;
+	min-width: 5rem;
+	height: 1.5625rem;
+	line-height: 1.1875rem;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+
+	&::placeholder {
+		font-family: "RR";
+		color: $color-placeholder;
+		opacity: 1;
+		transition: opacity $time-transition--placeholder ease;
+	}
+
+	&:focus::placeholder {
+		opacity: 0;
+		transition: opacity $time-transition--placeholder ease;
+	}
+
+	&--invalid {
+		border-bottom: 1px solid $color-invalid;
+		color: $color-invalid;
+	}
+}

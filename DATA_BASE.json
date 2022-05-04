@@ -1,0 +1,783 @@
+﻿{
+	"users": [
+		{
+			"id": 1,
+			"nickname": "Alex78",
+			"password": "asdASD123",
+			"date": "2022-04-28T06:09:59.464Z"
+		}
+	],
+	"new-movies": [
+		{
+			"id": "1",
+			"genre": "Ужасы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_1.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_1.jpeg"
+			},
+			"alt": "Фотография котенка",
+			"description": "Повседневная практика показывает, что дальнейшее развитие различных форм деятельности в значительной степени обуславливает создание существенных финансовых и административных условий. Таким образом укрепление и развитие структуры в значительной степени обуславливает создание направлений прогрессивного развития. Идейные соображения высшего порядка, а также консультация с широким активом позволяет выполнять важные задания по разработке соответствующий условий активизации. Значимость этих проблем настолько очевидна, что постоянный количественный рост и сфера нашей активности в значительной степени обуславливает создание соответствующий условий активизации. Задача организации, в особенности же постоянный количественный рост и сфера нашей активности влечет за собой процесс внедрения и модернизации соответствующий условий активизации. Товарищи! дальнейшее развитие различных форм деятельности требуют от нас анализа позиций, занимаемых участниками в отношении поставленных задач.",
+			"title": "Мульт в кино. Выпуск №103. Некогда грустить!",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/new-movies?id=1"
+		},
+		{
+			"id": "2",
+			"genre": "Комедии",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_2.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_2.jpeg"
+			},
+			"alt": "Изображение бэтмена",
+			"description": "Таким образом новая модель организационной деятельности позволяет выполнять важные задания по разработке существенных финансовых и административных условий. С другой стороны сложившаяся структура организации в значительной степени обуславливает создание новых предложений. Повседневная практика показывает, что новая модель организационной деятельности способствует подготовки и реализации систем массового участия.",
+			"title": "Новый Бэтмен",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/new-movies?id=2"
+		},
+		{
+			"id": "3",
+			"genre": "Фантастика",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_3.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_3.jpeg"
+			},
+			"alt": "Фотография гор с надписью Голливуд",
+			"description": "Фильм повествует о череде событий, произошедших в Голливуде в 1969 году, на закате его «золотого века». Известный актер Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире киноиндустрии.",
+			"title": "Однажды... в Голливуде",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/new-movies?id=3"
+		},
+		{
+			"id": "4",
+			"genre": "Драма",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_4.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_4.jpeg"
+			},
+			"alt": "Фотография девушки с синими волосами, в темных очках",
+			"description": "Не следует, однако забывать, что новая модель организационной деятельности требуют от нас анализа соответствующий условий активизации. С другой стороны сложившаяся структура организации позволяет оценить значение модели развития. Товарищи! новая модель организационной деятельности требуют от нас анализа соответствующий условий активизации. Равным образом начало повседневной работы по формированию позиции способствует подготовки и реализации системы обучения кадров, соответствует насущным потребностям. Не следует, однако забывать, что начало повседневной работы по формированию позиции в значительной степени обуславливает создание позиций, занимаемых участниками в отношении поставленных задач. Задача организации, в особенности же реализация намеченных плановых заданий играет важную роль в формировании соответствующий условий активизации.",
+			"title": "Стриптизёрши",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/new-movies?id=4"
+		},
+		{
+			"id": "5",
+			"genre": "Приключения",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_1.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_1.jpeg"
+			},
+			"alt": "Изображение кота",
+			"description": "Повседневная практика показывает, что дальнейшее развитие различных форм деятельности в значительной степени обуславливает создание существенных финансовых и административных условий. Таким образом укрепление и развитие структуры в значительной степени обуславливает создание направлений прогрессивного развития. Идейные соображения высшего порядка, а также консультация с широким активом позволяет выполнять важные задания по разработке соответствующий условий активизации. Значимость этих проблем настолько очевидна, что постоянный количественный рост и сфера нашей активности в значительной степени обуславливает создание соответствующий условий активизации. Задача организации, в особенности же постоянный количественный рост и сфера нашей активности влечет за собой процесс внедрения и модернизации соответствующий условий активизации. Товарищи! дальнейшее развитие различных форм деятельности требуют от нас анализа позиций, занимаемых участниками в отношении поставленных задач.",
+			"title": "Мультфильм про кота",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=5"
+		},
+		{
+			"id": "6",
+			"genre": "Фэнтези",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_2.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_2.jpeg"
+			},
+			"alt": "Фотография мужика в костюме летучей мыши",
+			"description": "Таким образом новая модель организационной деятельности позволяет выполнять важные задания по разработке существенных финансовых и административных условий. С другой стороны сложившаяся структура организации в значительной степени обуславливает создание новых предложений. Повседневная практика показывает, что новая модель организационной деятельности способствует подготовки и реализации систем массового участия.",
+			"title": "Я - летучая мышь!",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=6"
+		},
+		{
+			"id": "7",
+			"genre": "Боевик",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_3.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_3.jpeg"
+			},
+			"alt": "Фотография гор с надписью Голливуд",
+			"description": "Фильм повествует о череде событий, произошедших в Голливуде в 1969 году, на закате его «золотого века». Известный актер Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире киноиндустрии.",
+			"title": "Голливудские истории",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=7"
+		},
+		{
+			"id": "8",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_4.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_4.jpeg"
+			},
+			"alt": "Фотография девушки с синими волосами, в темных очках",
+			"description": "Не следует, однако забывать, что новая модель организационной деятельности требуют от нас анализа соответствующий условий активизации. С другой стороны сложившаяся структура организации позволяет оценить значение модели развития. Товарищи! новая модель организационной деятельности требуют от нас анализа соответствующий условий активизации. Равным образом начало повседневной работы по формированию позиции способствует подготовки и реализации системы обучения кадров, соответствует насущным потребностям. Не следует, однако забывать, что начало повседневной работы по формированию позиции в значительной степени обуславливает создание позиций, занимаемых участниками в отношении поставленных задач. Задача организации, в особенности же реализация намеченных плановых заданий играет важную роль в формировании соответствующий условий активизации.",
+			"title": "Лара Крофт",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=8"
+		}
+	],
+	"genres": [
+		{
+			"id": "1",
+			"genre": "Комедии",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_1.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_1.jpeg"
+			},
+			"alt": "Фотография котенка",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Мульт в кино. Выпуск №103. Некогда грустить!",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=1"
+		},
+		{
+			"id": "2",
+			"genre": "Комедии",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_2.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_2.jpeg"
+			},
+			"alt": "Изображение бэтмена",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Новый Бэтмен",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=2"
+		},
+		{
+			"id": "3",
+			"genre": "Комедии",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_3.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_3.jpeg"
+			},
+			"alt": "Фотография гор с надписью Голливуд",
+			"description": "Фильм повествует о череде событий, произошедших в Голливуде в 1969 году, на закате его «золотого века». Известный актер Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире киноиндустрии.",
+			"title": "Однажды... в Голливуде",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=3"
+		},
+		{
+			"id": "4",
+			"genre": "Комедии",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_4.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_4.jpeg"
+			},
+			"alt": "Фотография девушки с синими волосами, в темных очках",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Стриптизёрши",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=4"
+		},
+		{
+			"id": "5",
+			"genre": "Комедии",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_1.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_1.jpeg"
+			},
+			"alt": "Изображение кота",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Мультфильм про кота",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=5"
+		},
+		{
+			"id": "6",
+			"genre": "Комедии",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_2.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_2.jpeg"
+			},
+			"alt": "Фотография мужика в костюме летучей мыши",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Я - летучая мышь!",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=6"
+		},
+		{
+			"id": "7",
+			"genre": "Комедии",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_3.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_3.jpeg"
+			},
+			"alt": "Фотография гор с надписью Голливуд",
+			"description": "Фильм повествует о череде событий, произошедших в Голливуде в 1969 году, на закате его «золотого века». Известный актер Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире киноиндустрии.",
+			"title": "Голливудские истории",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=7"
+		},
+		{
+			"id": "8",
+			"genre": "Комедии",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_4.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_4.jpeg"
+			},
+			"alt": "Фотография девушки с синими волосами, в темных очках",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Лара Крофт",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=8"
+		},
+		{
+			"id": "1",
+			"genre": "Драмы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_1.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_1.jpeg"
+			},
+			"alt": "Фотография котенка",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Мульт в кино. Выпуск №103. Некогда грустить!",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=1"
+		},
+		{
+			"id": "2",
+			"genre": "Драмы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_2.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_2.jpeg"
+			},
+			"alt": "Изображение бэтмена",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Новый Бэтмен",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=2"
+		},
+		{
+			"id": "3",
+			"genre": "Драмы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_3.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_3.jpeg"
+			},
+			"alt": "Фотография гор с надписью Голливуд",
+			"description": "Фильм повествует о череде событий, произошедших в Голливуде в 1969 году, на закате его «золотого века». Известный актер Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире киноиндустрии.",
+			"title": "Однажды... в Голливуде",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=3"
+		},
+		{
+			"id": "4",
+			"genre": "Драмы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_4.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_4.jpeg"
+			},
+			"alt": "Фотография девушки с синими волосами, в темных очках",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Стриптизёрши",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=4"
+		},
+		{
+			"id": "5",
+			"genre": "Драмы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_1.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_1.jpeg"
+			},
+			"alt": "Изображение кота",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Мультфильм про кота",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=5"
+		},
+		{
+			"id": "6",
+			"genre": "Драмы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_2.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_2.jpeg"
+			},
+			"alt": "Фотография мужика в костюме летучей мыши",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Я - летучая мышь!",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=6"
+		},
+		{
+			"id": "7",
+			"genre": "Драмы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_3.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_3.jpeg"
+			},
+			"alt": "Фотография гор с надписью Голливуд",
+			"description": "Фильм повествует о череде событий, произошедших в Голливуде в 1969 году, на закате его «золотого века». Известный актер Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире киноиндустрии.",
+			"title": "Голливудские истории",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=7"
+		},
+		{
+			"id": "8",
+			"genre": "Драмы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_4.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_4.jpeg"
+			},
+			"alt": "Фотография девушки с синими волосами, в темных очках",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Лара Крофт",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=8"
+		},
+		{
+			"id": "1",
+			"genre": "Фантастика",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_1.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_1.jpeg"
+			},
+			"alt": "Фотография котенка",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Мульт в кино. Выпуск №103. Некогда грустить!",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=1"
+		},
+		{
+			"id": "2",
+			"genre": "Фантастика",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_2.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_2.jpeg"
+			},
+			"alt": "Изображение бэтмена",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Новый Бэтмен",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=2"
+		},
+		{
+			"id": "3",
+			"genre": "Фантастика",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_3.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_3.jpeg"
+			},
+			"alt": "Фотография гор с надписью Голливуд",
+			"description": "Фильм повествует о череде событий, произошедших в Голливуде в 1969 году, на закате его «золотого века». Известный актер Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире киноиндустрии.",
+			"title": "Однажды... в Голливуде",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=3"
+		},
+		{
+			"id": "4",
+			"genre": "Фантастика",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_4.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_4.jpeg"
+			},
+			"alt": "Фотография девушки с синими волосами, в темных очках",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Стриптизёрши",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=4"
+		},
+		{
+			"id": "5",
+			"genre": "Фантастика",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_1.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_1.jpeg"
+			},
+			"alt": "Изображение кота",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Мультфильм про кота",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=5"
+		},
+		{
+			"id": "6",
+			"genre": "Фантастика",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_2.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_2.jpeg"
+			},
+			"alt": "Фотография мужика в костюме летучей мыши",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Я - летучая мышь!",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=6"
+		},
+		{
+			"id": "7",
+			"genre": "Фантастика",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_3.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_3.jpeg"
+			},
+			"alt": "Фотография гор с надписью Голливуд",
+			"description": "Фильм повествует о череде событий, произошедших в Голливуде в 1969 году, на закате его «золотого века». Известный актер Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире киноиндустрии.",
+			"title": "Голливудские истории",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=7"
+		},
+		{
+			"id": "8",
+			"genre": "Фантастика",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_4.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_4.jpeg"
+			},
+			"alt": "Фотография девушки с синими волосами, в темных очках",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Лара Крофт",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=8"
+		},
+		{
+			"id": "1",
+			"genre": "Ужасы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_1.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_1.jpeg"
+			},
+			"alt": "Фотография котенка",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Мульт в кино. Выпуск №103. Некогда грустить!",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=1"
+		},
+		{
+			"id": "2",
+			"genre": "Ужасы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_2.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_2.jpeg"
+			},
+			"alt": "Изображение бэтмена",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Новый Бэтмен",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=2"
+		},
+		{
+			"id": "3",
+			"genre": "Ужасы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_3.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_3.jpeg"
+			},
+			"alt": "Фотография гор с надписью Голливуд",
+			"description": "Фильм повествует о череде событий, произошедших в Голливуде в 1969 году, на закате его «золотого века». Известный актер Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире киноиндустрии.",
+			"title": "Однажды... в Голливуде",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=3"
+		},
+		{
+			"id": "4",
+			"genre": "Ужасы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_4.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_4.jpeg"
+			},
+			"alt": "Фотография девушки с синими волосами, в темных очках",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Стриптизёрши",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=4"
+		},
+		{
+			"id": "5",
+			"genre": "Ужасы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_1.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_1.jpeg"
+			},
+			"alt": "Изображение кота",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Мультфильм про кота",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=5"
+		},
+		{
+			"id": "6",
+			"genre": "Ужасы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_2.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_2.jpeg"
+			},
+			"alt": "Фотография мужика в костюме летучей мыши",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Я - летучая мышь!",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=6"
+		},
+		{
+			"id": "7",
+			"genre": "Ужасы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_3.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_3.jpeg"
+			},
+			"alt": "Фотография гор с надписью Голливуд",
+			"description": "Фильм повествует о череде событий, произошедших в Голливуде в 1969 году, на закате его «золотого века». Известный актер Рик Далтон и его дублер Клифф Бут пытаются найти свое место в стремительно меняющемся мире киноиндустрии.",
+			"title": "Голливудские истории",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=7"
+		},
+		{
+			"id": "8",
+			"genre": "Ужасы",
+			"source": {
+				"webp": "/public/images/cards_movie/webp/picture_4.webp",
+				"jpeg": "/public/images/cards_movie/jpeg/picture_4.jpeg"
+			},
+			"alt": "Фотография девушки с синими волосами, в темных очках",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis tempore molestias laboriosam architecto ipsam, fugiat dolores magni voluptates ab. Ullam ex sapiente, nam minus blanditiis veritatis provident rerum ipsum earum nulla, aliquam rem totam! Facere voluptatum inventore quo, laudantium quod iste cumque ipsum voluptatem laborum, nesciunt non earum sed. Non facilis cupiditate tempore quas quod, praesentium rerum. Accusamus modi consequatur consequuntur ratione quibusdam reiciendis libero, quaerat magnam repellendus explicabo illo laborum vel veniam ut sequi nesciunt sit! Sequi nihil sunt labore dolore totam deserunt numquam quibusdam, quas eligendi iusto dolorum repellendus quis excepturi temporibus id consequuntur ex necessitatibus molestiae!",
+			"title": "Лара Крофт",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/movies?id=8"
+		}
+	],
+	"channels": [
+		{
+			"id": "1",
+			"svg": "<svg class=\"block-channel__logo\" width=\"50\" height=\"64\" viewBox=\"0 0 50 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><title>Первый телеканал</title><path d=\"M2.73689 15.9179L0.439453 24.1231L29.3215 14.2769L16.5215 60.7179L34.2446 55.7949L49.6702 0L2.73689 15.9179ZM16.3574 21.3333L4.70612 64L13.5677 61.5385L25.5471 18.2154L16.3574 21.3333Z\" fill=\"#0757A8\" /></svg>",
+			"title": "Первый канал",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/channels?id=1",
+			"currentProgram": {
+				"time": "13:00",
+				"name": "Новости (с субтитрами)"
+			},
+			"secondProgram": {
+				"time": "14:00",
+				"name": "Давай поженимся"
+			},
+			"thirdProgram": {
+				"time": "15:00",
+				"name": "Другие новости"
+			}
+		},
+		{
+			"id": "2",
+			"svg": "<svg class=\"block-channel__logo\" width=\"114\" height=\"49\" viewBox=\"0 0 114 49\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>Телеканал дважды два</title><rect width=\"114\" height=\"49\" fill=\"url(#2x2)\" /><defs>\t<pattern id=\"2x2\" patternContentUnits=\"objectBoundingBox\" width=\"1\" height=\"1\"><use xlink:href=\"#image0_20049_271\" transform=\"translate(0 -0.00510204) scale(0.00657895 0.0153061)\" /></pattern><image id=\"image0_20049_271\" width=\"152\" height=\"66\" xlink:href=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJgAAABCCAYAAACrZx9oAAAGNklEQVR4Ae1cXWhcRRSeyFIkqI/F+IPYEP/woW2ompqNVmqFRGlixQ0KFq3NiqAvPuz6oA++mAgi+lBMa1sjiFkoNP5VCMWfRlt9UHxSUdNa/KmIfVERhcC63643vezee+fc+dm5u3MOhNy9M+fMmTPfnjn3nLnbI8SaqmBiC1iywHmW5LJYtkDdAgwwBoJVCzDArJqXhTPAGANWLcAAs2peFs4AYwxYtQADzKp5WTgDjDFg1QIMMKvmZeEMMMaAVQswwKyal4UzwBgDVi3AALNqXhae0zFB7vyLxBWXX6wjQpn3z7/+Fr+d+UmZP6uM/QNXOVPNkk1xXEftr1B4oOqSlr8/WYUOQvQqz0F17rb4XNoTYx//5NPqcP52Y/bs6C1yXf+VYn5+TiwcrtS+9VrO2JnXyNrAQ5tvFEvHFkW5VDKiWo/OgcNCYbK+wEY00RTy3MwLolQut0ihbjnL333bwqt6Y23fZeLCC3ql7FFjVqv/Svna1WHD4Gbx5Ref6w6ntj0CmK63yObtpH/g+hbXPjo60dwt8jO2hrV961r402yF4F84/Hak/OabxanHIsdq7ufyM2ySZv7RfRXjrywCLG7RyqWnSOuEmE4dZL1kcEGf6MVYQ9KznZ3U7dFwXB0dgzX77hs2DTbfqn+enpkRT5afjmwL30RMd2LpaO1W2nguV48Dt4/fGRYXeQ09oE+n0JaRYV1Vu2eLxDc7zjPgPtWTYZujP5nSPdf+fa8m6gcds0aNp3R1jHSVB5N91aZnnhdvLrwj6ybgiahPpvv37an3lwnFuLt2Pyrr1nXtXgFMiBUxPlFICbL4Ncej/EMP74zv8H8LwIVxMb6HpO7+krYj023UJ1bauPRtLS4gp263jSexbCaCsWXLiLdIJZfQ8GQnl09JuZ+dfqYl6VicKgrclxHkj99zX62bl56rbh7PtsgwJFbEUH6roIIMoAIN528RL8++FBYUeQ25kN+N9dLICcfc9Bhgor74VJABVIi5UEaREYPrnIXSJnzOcUZc4XTFTZs2iEsv6Yto1bu1bettegJiuOFhADLkv5AHSyLKtgj+nQ8WjXmu9RsHxdUDA8LG/G/dMpI0XVNtJoL8XnKOSRZU6rbTgvzWOeMEgQkydRJh/cah+skGEzrpyNAN8g14MHoW29RXwoacj5c+EvmRbaQtMG588EOOLiHOo2zFuuO0g187BiuXniAlGtsxGd0xApCpyHmk+LgRcKFMNXdwVkWFTPJoAixHelzP5MxjlALIJiflydMwO+qLs3vNgGJ09A5pLBgeO+vXWgAbzt+c9fkp6VepHCKlLwLhB157PbjU/r9jYru2jCwJ0AKYjadF98ZpxJSyJ8qwnnv3vFj7aCCcrUm59rprwqI7/loLYB0/+4gJUIvXYdY0xfEwX9Q1jix3EzHAQqtJLV6HWFYvTYJsVWgXXJjx6wmGQFb7ww+OJfTIRhPARU2kxmkMkMED7to9FdfFyP0Txz8TX3/1jRFZMiE//3JG1kXW3pp0pCYrKSccKIfsqOPZ6oej1iYp7gQGRX+KHrrJT4oepvp4v0WmKV4jkUotjsMjMgnhNcCoGfOgeI0cGbU4HnXMx0fAeQswFJGp5Zgd996/WrwOiuNUTwYQe052YzBKTGGyDyV2wKtYeEWNQnHFaxSjqRQnI0pXqsx29dON97zzYHjrmnI0B14nqXiNN57RTiF4Sl89mVcAw3k1E+AKQJWmOA6QUX/GIJDfDf89AlhOHHrjIKmQjOI1wEMh9Bsbu5vSVSy+95aAB/WJPAEY/cyaypvXR468m+rNcZ9A5gXA8BItsuwyUgFXIDPtzxP4AjLrpaJgAVz9R3B99vez4sArc4kqLB59X1Qq84l9ZI0A2akfTpPOz0/cNWbsDJlML5ftXQ8wxEjUeMrEQgCkukA1oUdWZHixRWbF2D7q0dNI9qlN3eWPAMdpHPWrgXF9s3g/a6mM0z/+Klb++UPZVFoAUx6VGb2xAG+R3iy1m4kywNzY3ZtRGWDeLLWbiTLA3Njdm1EZYN4stZuJMsDc2N2bURlg3iy1m4kywNzY3ZtRGWDeLLWbiTLA3Njdm1EZYN4stZuJMsDc2N2bURlg3iy1m4n+B2lnLGdEfzEcAAAAAElFTkSuQmCC\" /></defs></svg>",
+			"title": "2x2",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/channels?id=2",
+			"currentProgram": {
+				"time": "13:00",
+				"name": "МУЛЬТ ТВ. Сезон 4, 7 серия"
+			},
+			"secondProgram": {
+				"time": "14:00",
+				"name": "ПОДОЗРИТЕЛЬНАЯ СОВА. Сезон 7, 7 серия"
+			},
+			"thirdProgram": {
+				"time": "15:00",
+				"name": "БУРДАШЕВ. Сезон 1, 20 серия"
+			}
+		},
+		{
+			"id": "3",
+			"svg": "<svg class=\"block-channel__logo\" width=\"114\" height=\"65\" viewBox=\"0 0 114 65\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><title>Телеканал РБК</title><path d=\"M29.1099 6V55.68L78.7898 6H29.1099Z\" fill=\"#92CFAE\" /><path d=\"M33.4302 60H83.1101V10.32L33.4302 60Z\" fill=\"#2A8288\" /></svg>",
+			"title": "РБК",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/channels?id=3",
+			"currentProgram": {
+				"time": "13:00",
+				"name": "ДЕНЬ. Горючая смесь: как бороться с суррогатом на АЗС"
+			},
+			"secondProgram": {
+				"time": "14:00",
+				"name": "ДЕНЬ. Главные темы"
+			},
+			"thirdProgram": {
+				"time": "15:00",
+				"name": "Главные новости"
+			}
+		},
+		{
+			"id": "4",
+			"svg": "<svg class=\"block-channel__logo\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><title>Телеканал А-медиа</title><path d=\"M57.2926 0H6.70742C2.98108 0 0 2.98108 0 6.70742V57.2926C0 61.0189 2.98108 64 6.70742 64H57.1994C60.9258 64 63.9068 61.0189 63.9068 57.2926V6.70742C64 2.98108 61.0189 0 57.2926 0ZM43.0393 52.6346L39.4993 42.4804H27.2955C27.2955 42.4804 27.4818 41.7351 27.7613 41.1761C28.0408 40.6172 27.9476 40.0582 27.4818 39.9651C27.016 39.8719 27.1092 39.4061 27.3886 39.2198C27.6681 39.0335 28.4134 38.754 30.1834 37.9156C31.9534 37.0771 30.8355 36.425 30.2766 36.0524C29.9971 35.7729 29.8108 35.4003 29.9039 34.9345H36.7045L32.0466 21.706L27.6681 34.0961C27.6681 34.0961 27.1092 35.4003 27.7613 35.9592C28.4134 36.5182 29.5313 36.984 27.6681 37.8224C25.805 38.6608 25.1528 38.9403 24.8734 39.1266C24.5939 39.313 24.4076 39.7787 24.9665 39.8719C25.5255 39.9651 25.4323 40.524 25.246 41.083L24.8734 41.9214L21.147 52.5415H13.1354L16.8617 42.0146L17.2344 41.083C17.4207 40.524 17.4207 39.9651 16.9549 39.8719C16.4891 39.7787 16.7686 39.313 17.048 39.1266C17.3275 38.9403 18.0728 38.6608 19.8428 37.8224C21.6128 36.984 20.4949 36.3319 19.936 35.9592C19.377 35.5866 19.8428 34.0961 19.8428 34.0961L19.936 33.9098L28.2271 10.2475H36.2387L44.623 34.1892C44.623 34.2824 44.623 34.2824 44.7162 34.3755C44.9956 35.0277 45.4614 35.5866 46.0204 35.9592C47.1383 36.7045 49.4673 37.0771 47.6972 37.9156C46.952 38.1951 46.2067 38.5677 45.5546 39.0335C45.2751 39.2198 45.2751 39.6856 45.8341 39.9651C46.393 40.2445 46.8588 40.3377 47.0451 40.9898C47.2314 41.6419 47.3246 41.9214 47.3246 41.9214V42.0146L51.0509 52.6346H43.0393Z\" fill=\"url(#paint0_linear_20049_55)\" /><defs> <linearGradient id=\"paint0_linear_20049_55\" x1=\"32.0047\" y1=\"0\" x2=\"32.0047\" y2=\"64.0093\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#C6C6C6\" /><stop offset=\"1\" stop-color=\"#575756\" /></linearGradient></defs></svg>",
+			"title": "AMEDIA PREMIUM",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/channels?id=4",
+			"currentProgram": {
+				"time": "13:00",
+				"name": "Клиент всегда мёртв"
+			},
+			"secondProgram": {
+				"time": "14:00",
+				"name": "Голодные игры: Сойка-пересмешница. Часть I"
+			},
+			"thirdProgram": {
+				"time": "15:00",
+				"name": "Секс в большом городе"
+			}
+		},
+		{
+			"id": "5",
+			"svg": "<svg class=\"block-channel__logo\" width=\"50\" height=\"64\" viewBox=\"0 0 50 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><title>Первый телеканал</title><path d=\"M2.73689 15.9179L0.439453 24.1231L29.3215 14.2769L16.5215 60.7179L34.2446 55.7949L49.6702 0L2.73689 15.9179ZM16.3574 21.3333L4.70612 64L13.5677 61.5385L25.5471 18.2154L16.3574 21.3333Z\" fill=\"#0757A8\" /></svg>",
+			"title": "Первый канал",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/channels?id=5",
+			"currentProgram": {
+				"time": "13:00",
+				"name": "Новости (с субтитрами)"
+			},
+			"secondProgram": {
+				"time": "14:00",
+				"name": "Давай поженимся"
+			},
+			"thirdProgram": {
+				"time": "15:00",
+				"name": "Другие новости"
+			}
+		},
+		{
+			"id": "6",
+			"svg": "<svg class=\"block-channel__logo\" width=\"114\" height=\"49\" viewBox=\"0 0 114 49\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>Телеканал дважды два</title><rect width=\"114\" height=\"49\" fill=\"url(#2x2)\" /><defs>\t<pattern id=\"2x2\" patternContentUnits=\"objectBoundingBox\" width=\"1\" height=\"1\"><use xlink:href=\"#image0_20049_271\" transform=\"translate(0 -0.00510204) scale(0.00657895 0.0153061)\" /></pattern><image id=\"image0_20049_271\" width=\"152\" height=\"66\" xlink:href=\"data:image/png;base64,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\" /></defs></svg>",
+			"title": "2x2",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/channels?id=6",
+			"currentProgram": {
+				"time": "13:00",
+				"name": "МУЛЬТ ТВ. Сезон 4, 7 серия"
+			},
+			"secondProgram": {
+				"time": "14:00",
+				"name": "ПОДОЗРИТЕЛЬНАЯ СОВА. Сезон 7, 7 серия"
+			},
+			"thirdProgram": {
+				"time": "15:00",
+				"name": "БУРДАШЕВ. Сезон 1, 20 серия"
+			}
+		},
+		{
+			"id": "7",
+			"svg": "<svg class=\"block-channel__logo\" width=\"114\" height=\"65\" viewBox=\"0 0 114 65\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><title>Телеканал РБК</title><path d=\"M29.1099 6V55.68L78.7898 6H29.1099Z\" fill=\"#92CFAE\" /><path d=\"M33.4302 60H83.1101V10.32L33.4302 60Z\" fill=\"#2A8288\" /></svg>",
+			"title": "РБК",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/channels?id=7",
+			"currentProgram": {
+				"time": "13:00",
+				"name": "ДЕНЬ. Горючая смесь: как бороться с суррогатом на АЗС"
+			},
+			"secondProgram": {
+				"time": "14:00",
+				"name": "ДЕНЬ. Главные темы"
+			},
+			"thirdProgram": {
+				"time": "15:00",
+				"name": "Главные новости"
+			}
+		},
+		{
+			"id": "8",
+			"svg": "<svg class=\"block-channel__logo\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><title>Телеканал А-медиа</title><path d=\"M57.2926 0H6.70742C2.98108 0 0 2.98108 0 6.70742V57.2926C0 61.0189 2.98108 64 6.70742 64H57.1994C60.9258 64 63.9068 61.0189 63.9068 57.2926V6.70742C64 2.98108 61.0189 0 57.2926 0ZM43.0393 52.6346L39.4993 42.4804H27.2955C27.2955 42.4804 27.4818 41.7351 27.7613 41.1761C28.0408 40.6172 27.9476 40.0582 27.4818 39.9651C27.016 39.8719 27.1092 39.4061 27.3886 39.2198C27.6681 39.0335 28.4134 38.754 30.1834 37.9156C31.9534 37.0771 30.8355 36.425 30.2766 36.0524C29.9971 35.7729 29.8108 35.4003 29.9039 34.9345H36.7045L32.0466 21.706L27.6681 34.0961C27.6681 34.0961 27.1092 35.4003 27.7613 35.9592C28.4134 36.5182 29.5313 36.984 27.6681 37.8224C25.805 38.6608 25.1528 38.9403 24.8734 39.1266C24.5939 39.313 24.4076 39.7787 24.9665 39.8719C25.5255 39.9651 25.4323 40.524 25.246 41.083L24.8734 41.9214L21.147 52.5415H13.1354L16.8617 42.0146L17.2344 41.083C17.4207 40.524 17.4207 39.9651 16.9549 39.8719C16.4891 39.7787 16.7686 39.313 17.048 39.1266C17.3275 38.9403 18.0728 38.6608 19.8428 37.8224C21.6128 36.984 20.4949 36.3319 19.936 35.9592C19.377 35.5866 19.8428 34.0961 19.8428 34.0961L19.936 33.9098L28.2271 10.2475H36.2387L44.623 34.1892C44.623 34.2824 44.623 34.2824 44.7162 34.3755C44.9956 35.0277 45.4614 35.5866 46.0204 35.9592C47.1383 36.7045 49.4673 37.0771 47.6972 37.9156C46.952 38.1951 46.2067 38.5677 45.5546 39.0335C45.2751 39.2198 45.2751 39.6856 45.8341 39.9651C46.393 40.2445 46.8588 40.3377 47.0451 40.9898C47.2314 41.6419 47.3246 41.9214 47.3246 41.9214V42.0146L51.0509 52.6346H43.0393Z\" fill=\"url(#paint0_linear_20049_55)\" /><defs> <linearGradient id=\"paint0_linear_20049_55\" x1=\"32.0047\" y1=\"0\" x2=\"32.0047\" y2=\"64.0093\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#C6C6C6\" /><stop offset=\"1\" stop-color=\"#575756\" /></linearGradient></defs></svg>",
+			"title": "AMEDIA PREMIUM",
+			"information": {
+				"info": "...какая-то информация..."
+			},
+			"href": "http://localhost:3000/channels?id=8",
+			"currentProgram": {
+				"time": "13:00",
+				"name": "Клиент всегда мёртв"
+			},
+			"secondProgram": {
+				"time": "14:00",
+				"name": "Голодные игры: Сойка-пересмешница. Часть I"
+			},
+			"thirdProgram": {
+				"time": "15:00",
+				"name": "Секс в большом городе"
+			}
+		}
+	]
+}

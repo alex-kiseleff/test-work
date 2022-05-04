@@ -1,0 +1,67 @@
+.block-channel {
+	flex-shrink: 0;
+	border-radius: 8px;
+	overflow: hidden;
+	background: $color-background--block-channel;
+	max-width: 73.75rem;
+	min-height: 10.125rem;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+	transition: $time-transition--hover;
+	
+	.string-info {
+		margin-bottom: 0.75rem;
+
+		&:nth-child(n + 5) {
+			display: none;
+		}
+	}
+
+	&__wrap-logo {
+		flex-shrink: 1.94;
+		max-width: 25rem;
+		width: 100%;
+		height: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+			display: none;
+		}
+	}
+
+	&__logo {
+		max-width: 100%;
+		max-height: 100%;
+	}
+
+	&__wrap-list-program {
+		width: 100%;
+		min-height: 100%;
+
+		@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+			padding-left: 0.5rem;
+		}
+	}
+
+	&__title {
+		padding-top: 1.3125rem;
+		font-family: "RM";
+		font-size: $size-font--20;
+		line-height: 1.5rem;
+		color: $color-text;
+		margin-bottom: 1.0625rem;
+
+		@media (min-width: $screen-xs) and (max-width: $screen-sm) {
+			text-align: center;
+		}
+	}
+
+	&--hovered:hover {
+		cursor: pointer;
+		box-shadow: inset 0px 0px 16px $color-background--box-shadow;
+		transition: $time-transition--hover;
+	}
+}

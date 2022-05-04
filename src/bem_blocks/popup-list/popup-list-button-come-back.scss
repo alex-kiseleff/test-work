@@ -1,0 +1,25 @@
+	.popup-card {
+
+		&__come-back {
+			position: sticky;
+			top: 0;
+			width: 100%;
+			background: $color-background--popup-card;
+			text-align: start;
+			padding: 1rem;
+			border-bottom: 1px solid $color-border-top-category;
+		}
+		
+		&__button {
+			background: inherit;
+			font-family: 'RM';
+			font-size: $size-font--16;
+			color: $color-text--white;
+			transition: $time-transition--hover;
+			
+			&:hover {
+				transition: $time-transition--hover;
+				padding-left: 1rem;
+			}
+		}
+	}

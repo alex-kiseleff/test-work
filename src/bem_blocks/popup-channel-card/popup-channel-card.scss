@@ -1,0 +1,91 @@
+.popup-channel-card {
+	max-width: 100%;
+	min-height: 100vh;
+	background: $color-background--popup-card;
+	
+	&__container {
+		max-width: 73.75rem;
+		min-height: 100%;
+		margin: 0 auto;
+		padding: 2rem 1rem;
+		z-index: 500;
+		display: flex;
+		flex-direction: column;
+		color: $color-text--white;
+		font-family: 'RR';
+		font-size: $size-font--16;
+	}
+
+	&__come-back {
+		position: sticky;
+		top: 0;
+		max-width: 100%;
+		background: $color-background--popup-card;
+		text-align: start;
+		padding: 1rem;
+		border-bottom: 1px solid $color-border-top-category;
+		z-index: 200;
+	}
+
+	&__button {
+		background: inherit;
+		font-family: 'RM';
+		font-size: $size-font--16;
+		color: $color-text--white;
+		transition: $time-transition--hover;
+		
+		&:hover {
+			transition: $time-transition--hover;
+			padding-left: 1rem;
+		}
+	}
+	
+	&__title {
+		font-family: 'RM';
+		font-size: $size-font--24;
+		align-self: center;
+		margin-bottom: 3rem;
+		padding: 0 1rem;
+	}
+	
+	&__video-player {
+		width: 80%;
+		height: auto;
+		align-self: center;
+		margin-bottom: 1.5rem;
+	}
+	
+	&__list-program-title {
+		padding-left: 1rem;
+		align-self: center;
+		font-family: 'RM';
+		font-size: $size-font--20;
+	}
+
+	&__wrap-list-program {
+		width: 80%;
+		padding: 2rem 0;
+		align-self: center;
+		
+		.string-info {
+			color: $color-text--popup-channel-list;
+			
+			&--current-program {
+				color: $color-text--white;
+			}
+		}
+	}
+	
+	&__info-title {
+		border-bottom: 1px solid $color-border-bottom-card-info-title;
+		margin-right: 2rem;
+		font-family: 'RM';
+		font-size: $size-font--16;
+	}
+
+	&__info {
+		width: 80%;
+		align-self: center;
+	}
+}
+
